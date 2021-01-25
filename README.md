@@ -15,3 +15,7 @@ source: https://github.com/jbrownlee/Datasets/blob/master/airline-passengers.csv
 Consist of count of various questions of specific libraries for each month
 
 source: https://www.kaggle.com/aishu200023/stackindex?select=MLTollsStackOverflow.csv
+
+## Historical Amazon stock prices
+
+Historical Amazon stock prices in daily frequency in more than 23 years
