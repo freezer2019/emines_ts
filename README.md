@@ -31,3 +31,7 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 source: https://data.world/shad/covid-19-time-series-data
 source: https://github.com/CSSEGISandData/COVID-19
 
+## Amazon sales rank data for print and kindle books
+
+Source: https://www.kaggle.com/ucffool/amazon-sales-rank-data-for-print-and-kindle-books
+
