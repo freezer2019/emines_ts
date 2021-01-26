@@ -1,5 +1,5 @@
 ## Mega Millions - Times Series
-![Screenshot] (Mega-Millions.jpg)
+![ScreenShot](Mega-Millions.jpg)
 
 Mega Millions is an American multi-jurisdictional lottery game.
 
