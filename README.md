@@ -1,8 +1,7 @@
-# emines_ts
-Times series analysis
+## Mega Millions - Times Series
+![ScreenShot](Mega-Millions.jpg)
 
-Follow to contribute [Step-by-step guide to contributing on GitHub
-](https://www.dataschool.io/how-to-contribute-on-github/)
+Mega Millions is an American multi-jurisdictional lottery game.
 
 - put the dataset in csv format in the /data folder
 
@@ -38,3 +37,7 @@ source: https://www.kaggle.com/usaf/world-war-ii
 The dataset contains information on weather conditions recorded on each day at various weather stations around the world. Information includes precipitation, snowfall, temperatures, wind speed and whether the day included thunder storms or other poor weather conditions.
 source: https://www.kaggle.com/smid80/weatherww2
 
+The csv file contains the winning lottery numbers for Mega Millions from the 17th of May 2002, up until the 30th of June 2020. There are a total of 1889 sets of numbers in the file. The columns are the draw date, the five winning numbers, the 'Mega Ball' number, and from the 18th of January 2011, the 'multiplier'.
+
+
+source: https://www.kaggle.com/carlmcbrideellis/lottery-mega-millions-winning-numbers
