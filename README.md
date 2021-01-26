@@ -48,4 +48,8 @@ source: https://www.kaggle.com/smid80/weatherww2
 
 Source: https://www.kaggle.com/ucffool/amazon-sales-rank-data-for-print-and-kindle-books
 
+## Wind Power forecasting for the day-ahead energy market by "Compagnie Nationale du Rhône" : 
+   
+   Predict the energy production of six WF (wind farm) owned by CNR. Each WF production will be individually predicted, using meteorological forecasts as input. Predictions will focus on the day-ahead energy production (hourly production forecasts from day D+1 00h to day D+2 00h).
 
+Source : https://challengedata.ens.fr/participants/challenges/34/
